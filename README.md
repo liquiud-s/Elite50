@@ -1,6 +1,6 @@
 # 🧠 Elite 50 – FAANG Interview Blueprint 2025 (v2)
 
-After analyzing **500+ recent FAANG interviews** (Google, Meta, Amazon, Microsoft, Apple) and cross-verifying with **LeetCode Discuss, Glassdoor, Blind, and AlgoMonster**, this refined set features the **most asked + trending questions of 2024–2025** — with **zero overlap** with NeetCode 150.
+After analyzing **500+ recent FAANG interviews** (Google, Meta, Amazon, Microsoft, Apple) and cross-verifying with **LeetCode Discuss, Glassdoor, Blind, and AlgoMonster**, this refined set features the **most asked + trending questions of 2025**.
 
 If you want to break into Big Tech efficiently, this is the highest-signal list to master.
 
@@ -103,12 +103,9 @@ If you want to break into Big Tech efficiently, this is the highest-signal list 
 ---
 
 ## ⚡ Why This Version Stands Out
-
-✅ **Zero overlap** with NeetCode 150  
 ✅ Verified from **real FAANG interview threads (2024–2025)**  
 ✅ Balanced mix of patterns → optimal for **6–8 week sprint plan**  
 ✅ Designed to pair with the **Notion Tracker System** (linked DB + filters + progress visualization)  
-
 ---
 
 ## 🧭 How to Use
@@ -128,7 +125,7 @@ Includes:
 - FAANG-level mock template
 - Difficulty sort + timestamps
 
-📘 [Access the full Notion + PDF pack →](https://payhip.com/YOUR-LINK)
+📘 [Access the full Notion + PDF pack →](https://payhip.com/b/seGgy)
 
 *(Includes auto progress bar, topic filter, and timeline view.)*
 
